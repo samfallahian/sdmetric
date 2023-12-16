@@ -1,0 +1,45 @@
+Generating report for Coupla ...
+(1/2) Evaluating Column Shapes: : 100%|██████████| 15/15 [00:00<00:00, 164.32it/s]
+(2/2) Evaluating Column Pair Trends: : 100%|██████████| 105/105 [00:04<00:00, 24.42it/s]
+
+Overall Score: 82.45%
+
+Properties:
+- Column Shapes: 86.31%
+- Column Pair Trends: 78.58%
+
+Generating report for Coupla GAN ...
+(1/2) Evaluating Column Shapes: : 100%|██████████| 15/15 [00:00<00:00, 102.65it/s]
+(2/2) Evaluating Column Pair Trends: : 100%|██████████| 105/105 [00:06<00:00, 15.57it/s]
+
+Overall Score: 87.27%
+
+Properties:
+- Column Shapes: 92.69%
+- Column Pair Trends: 81.84%
+
+Generating report for CTGAN...
+(1/2) Evaluating Column Shapes: : 100%|██████████| 15/15 [00:00<00:00, 61.25it/s]
+(2/2) Evaluating Column Pair Trends: : 100%|██████████| 105/105 [00:08<00:00, 11.84it/s]
+
+Overall Score: 82.1%
+
+Properties:
+- Column Shapes: 87.92%
+- Column Pair Trends: 76.27%
+
+Generating report for VAE ...
+(1/2) Evaluating Column Shapes: : 100%|██████████| 15/15 [00:00<00:00, 56.42it/s]
+(2/2) Evaluating Column Pair Trends: : 100%|██████████| 105/105 [00:09<00:00, 11.44it/s]
+
+Overall Score: 84.53%
+
+Properties:
+- Column Shapes: 89.2%
+- Column Pair Trends: 79.85%
+
+
+coupla:  0.8244654049979703
+coupla_gan:  0.8726659494987878
+ctgan:  0.8209730841618488
+vae:  0.845251245536859

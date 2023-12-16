@@ -1,0 +1,15 @@
+0,age,KSComplement,0.890700
+1,workclass,TVComplement,0.786970
+2,fnlwgt,KSComplement,0.974682
+3,education,TVComplement,0.881432
+4,education-num,KSComplement,0.934318
+5,marital-status,TVComplement,0.929520
+6,occupation,TVComplement,0.813552
+7,relationship,TVComplement,0.884344
+8,race,TVComplement,0.961461
+9,sex,TVComplement,0.916795
+10,capital-gain,KSComplement,0.438290
+11,capital-loss,KSComplement,0.974349
+12,hours-per-week,KSComplement,0.927732
+13,native-country,TVComplement,0.897401
+14,income,TVComplement,0.977190
